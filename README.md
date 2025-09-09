@@ -5,7 +5,7 @@
 My name is Ladityarsa Ilyankusuma or better known as Ian and I'm a data science, machine learning, and AI enthusiast transitioning from a strategic business operations role in FMCG and a Serie A startup. I'm from Indonesia, living in Jakarta. You can find me on [![LinkedIn][3.2]][3], or on [![Twitter][1.2]][1].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
