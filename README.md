@@ -1,10 +1,8 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
 [![Header](https://github.com/IanKuzuma/IanKuzuma/blob/f0f6e8c84ddcadb8f387af7a75cd0b6628f3c54e/readme_header.png "Header")](https://github.com/IanKuzuma)
 
-# Hello, folks! <img src="https://github.com/IanKuzuma/IanKuzuma/blob/3b99c8de00cb2a9a8e95edac4cc6b851787b5f89/wave.gif" width="30px" height="30px" />
+# Oh, hello there! <img src="https://github.com/IanKuzuma/IanKuzuma/blob/3b99c8de00cb2a9a8e95edac4cc6b851787b5f89/wave.gif" width="30px" height="30px" />
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Ladityarsa Ilyankusuma or better known as Ian and I'm a data science, machine learning, and AI enthusiast transitioning from a strategic business operations role in FMCG and a Serie A startup. I'm from Indonesia, living in Jakarta. You can find me on [![LinkedIn][3.2]][3], or on [![Twitter][1.2]][1].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -68,9 +66,9 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://x.com/IanKuzuma42
+[2]: https://github.com/IanKuzuma
+[3]: https://www.linkedin.com/in/ladityarsa-ian/
 
 
 <!-- Resources -->
