@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://github.com/IanKuzuma/IanKuzuma/blob/f0f6e8c84ddcadb8f387af7a75cd0b6628f3c54e/readme_header.png "Header")](https://github.com/IanKuzuma)
 
 # Hello, folks! <img src="https://github.com/IanKuzuma/IanKuzuma/blob/3b99c8de00cb2a9a8e95edac4cc6b851787b5f89/wave.gif" width="30px" height="30px" />
 
